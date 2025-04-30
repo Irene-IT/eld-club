@@ -52,13 +52,7 @@ Fully responsive across devices — mobile, tablet, and desktop.
 - HTML5  
 - CSS3 (Flexbox + Grid) 
 - JavaScript (ES6)   
-- Netlify (manual deployment)
-
----
-
-## 🚀 Deployment 
-
-Deployment is handled manually via the Netlify UI by uploading the built project files.
+- Vercel.com (deployment)
 
 ---
 
