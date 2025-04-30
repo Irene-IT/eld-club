@@ -1,6 +1,6 @@
 # 📄 ELD CLUB
 
-**[View the site →](https://eld-club.netlify.app)**
+**[View the site →](https://eld-club.vercel.app/)**
 
 ---
 
