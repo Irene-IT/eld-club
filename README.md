@@ -1,6 +1,6 @@
 # 📄 ELD CLUB
 
-**[View the site →](https://eld-club.vercel.app/)**
+**[View the site →](https://irene-it.github.io/eld-club/)**
 
 ---
 
